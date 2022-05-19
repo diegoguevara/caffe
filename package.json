@@ -1,0 +1,18 @@
+{
+  "name": "caffe",
+  "version": "1.0.0",
+  "description": "Simple tool to keep mac active",
+  "main": "index.js",
+  "bin": {
+    "caffe": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Guevara",
+  "license": "MIT",
+  "dependencies": {
+    "desktop-idle": "^1.3.0",
+    "robotjs": "^0.6.0"
+  }
+}
