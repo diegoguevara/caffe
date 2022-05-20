@@ -1,13 +1,16 @@
 {
   "name": "caffe-idle",
-  "version": "1.0.0",
-  "description": "Simple tool to keep mac active",
+  "version": "1.0.2",
+  "description": "Simple tool to prevent computer from going to sleep",
+  "keywords": [
+    "nodejs",
+    "idle",
+    "npx",
+    "caffeine"
+  ],
   "main": "index.js",
   "bin": {
     "caffe": "bin/index.js"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Diego Guevara",
   "license": "MIT",
