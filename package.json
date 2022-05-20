@@ -1,5 +1,5 @@
 {
-  "name": "caffe",
+  "name": "caffe-idle",
   "version": "1.0.0",
   "description": "Simple tool to keep mac active",
   "main": "index.js",
